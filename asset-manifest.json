@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/larrycknalawaku/static/css/main.c3f01347.css",
+    "main.js": "/larrycknalawaku/static/js/main.e8318732.js",
+    "static/media/resume.pdf": "/larrycknalawaku/static/media/resume.b459a6f8d11d37a20196.pdf",
+    "static/media/larry.png": "/larrycknalawaku/static/media/larry.5d8c7200e8bd5acdcc68.png",
+    "index.html": "/larrycknalawaku/index.html",
+    "main.c3f01347.css.map": "/larrycknalawaku/static/css/main.c3f01347.css.map",
+    "main.e8318732.js.map": "/larrycknalawaku/static/js/main.e8318732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3f01347.css",
+    "static/js/main.e8318732.js"
+  ]
+}
